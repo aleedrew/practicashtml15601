@@ -1,0 +1,32 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+nav{
+    background: gray;
+    height: 50px;
+    line-height:50px ;
+}
+
+nav ul li{
+    
+    float:  left;
+    list-style: none ;
+     margin:  10px;
+    
+}
+.clearfix{
+    clear:right;
+   
+}
+
+footer{
+    background: gray;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height:50px ;
+}
+
+div{
+    position: relative;
+}
